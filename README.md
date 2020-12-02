@@ -2,11 +2,11 @@
 code for Semantic Enhanced Digital Twin System for Robot-Environment Interaction Monitoring            	
 
 
-The TD_ unity includes graphic model, physical model, semantic space visualization and data receiving program with TCP / IP. All programs are written in C#
+The DT_unity includes graphic model, physical model, semantic space visualization and data receiving program with TCP / IP. All programs are written in C#
 
 
 
-The spatial_ rel_ Detection includes the description of spatial relationship dataset and the specific steps of model training. All programs are written in python.
+The spatial_rel_ Detection includes the description of spatial relationship dataset and the specific steps of model training. All programs are written in python.
 
 
 
