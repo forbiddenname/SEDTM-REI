@@ -1,5 +1,5 @@
 # SEDTM-REI
-code for Semantic Enhanced Digital Twin System for Robot-Environment Interaction Monitoring            	
+code for Semantic Enhanced Digital Twin System for Robot-Environment Interaction Monitoring (published in IEEE TIM, Doi:10.1109/TIM.2021.3066542)       	
 
 
 The DT_unity includes graphic model, physical model, semantic space visualization and data receiving program with TCP / IP. All programs are written in C#
